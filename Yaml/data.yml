@@ -1,0 +1,18 @@
+organization:
+  name: Sample organization
+  description: A  Sample organization
+  departments:
+    - name: Developer
+      employees:
+        - name: Mathan
+          position: Intern
+        - name: Raj
+          position: Junior Developer
+
+    - name: Devops
+      employees:
+        - name: Mathan
+          position: System Admin
+        - name: Raj
+          position: Devops Architect
+
