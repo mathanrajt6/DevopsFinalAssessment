@@ -1,0 +1,15 @@
+D:\Kanini\Internship\Devops Training\Final Assessment\DemeDotNet\DemeDotNet\bin\Debug\net6.0\DemeDotNet.exe
+D:\Kanini\Internship\Devops Training\Final Assessment\DemeDotNet\DemeDotNet\bin\Debug\net6.0\DemeDotNet.deps.json
+D:\Kanini\Internship\Devops Training\Final Assessment\DemeDotNet\DemeDotNet\bin\Debug\net6.0\DemeDotNet.runtimeconfig.json
+D:\Kanini\Internship\Devops Training\Final Assessment\DemeDotNet\DemeDotNet\bin\Debug\net6.0\DemeDotNet.dll
+D:\Kanini\Internship\Devops Training\Final Assessment\DemeDotNet\DemeDotNet\bin\Debug\net6.0\DemeDotNet.pdb
+D:\Kanini\Internship\Devops Training\Final Assessment\DemeDotNet\DemeDotNet\obj\Debug\net6.0\DemeDotNet.csproj.AssemblyReference.cache
+D:\Kanini\Internship\Devops Training\Final Assessment\DemeDotNet\DemeDotNet\obj\Debug\net6.0\DemeDotNet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kanini\Internship\Devops Training\Final Assessment\DemeDotNet\DemeDotNet\obj\Debug\net6.0\DemeDotNet.AssemblyInfoInputs.cache
+D:\Kanini\Internship\Devops Training\Final Assessment\DemeDotNet\DemeDotNet\obj\Debug\net6.0\DemeDotNet.AssemblyInfo.cs
+D:\Kanini\Internship\Devops Training\Final Assessment\DemeDotNet\DemeDotNet\obj\Debug\net6.0\DemeDotNet.csproj.CoreCompileInputs.cache
+D:\Kanini\Internship\Devops Training\Final Assessment\DemeDotNet\DemeDotNet\obj\Debug\net6.0\DemeDotNet.dll
+D:\Kanini\Internship\Devops Training\Final Assessment\DemeDotNet\DemeDotNet\obj\Debug\net6.0\refint\DemeDotNet.dll
+D:\Kanini\Internship\Devops Training\Final Assessment\DemeDotNet\DemeDotNet\obj\Debug\net6.0\DemeDotNet.pdb
+D:\Kanini\Internship\Devops Training\Final Assessment\DemeDotNet\DemeDotNet\obj\Debug\net6.0\DemeDotNet.genruntimeconfig.cache
+D:\Kanini\Internship\Devops Training\Final Assessment\DemeDotNet\DemeDotNet\obj\Debug\net6.0\ref\DemeDotNet.dll
